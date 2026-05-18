@@ -33,7 +33,7 @@ rule-based-ai-chatbot/
 1. Install Python
 2. Clone this repository
 
-git clone https://github.com/your-username/rule-based-ai-chatbot.git
+git clone https://github.com/Janusha-prog/rule-based-ai-chatbot.git
 
 3. Run the Python file
 python chatbot.py
